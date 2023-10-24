@@ -16,7 +16,7 @@ Many domain name registrars forward their expired domain names to exclusive part
 
 ## List of Registrars and Auction Partners
 
-| Domain Name Registrar | Auction Partner |
+| Domain Name Registrar | Auction Marketplace |
 |---|---|
 | 123-Reg | GoDaddy |
 | Alibaba | Unknown |
