@@ -19,37 +19,37 @@ Many domain name registrars forward their expired domain names to exclusive part
 | Domain Name Registrar | Auction Marketplace |
 |---|---|
 | 123-Reg | GoDaddy |
-| Alibaba | Unknown |
+| Alibaba | unknown |
 | Ascio | NameJet/SnapNames |
 | Automattic | GoDaddy |
 | BigRock | GoDaddy |
 | BlueRazor Domains | GoDaddy |
-| Cloudflare | None |
+| Cloudflare | none |
 | Crazy Domains | NameJet/SnapNames |
-| CSC | None |
+| CSC | none |
 | DirectNic | NameJet/SnapNames |
-| DNC Holdings | Unknown |
+| DNC Holdings | unknown |
 | Domain.com | GoDaddy |
 | DomainPeople | NameJet/SnapNames |
 | DomainSite | GoDaddy |
-| DotHolding | Unknown |
+| DotHolding | unknown |
 | Dotology | NameJet/SnapNames |
-| DreamHost | None? |
-| Dreamscape | None? |
+| DreamHost | none |
+| Dreamscape | none |
 | Dynadot | Dynadot |
-| eName | Unknown |
+| eName | unknown |
 | Enom | GoDaddy |
-| EuroDNS | Unknown |
+| EuroDNS | unknown |
 | Fabulous (SeaWasp) | NameJet/SnapNames |
 | FastDomain | GoDaddy |
-| Gandi | None? |
+| Gandi | none |
 | GMO | GoDaddy |
 | GoDaddy | GoDaddy |
-| Hostopia | Unknown |
+| Hostopia | unknown |
 | IONOS registrars | First to Sedo, then NameJet/SnapNames |
 | Key-Systems | GoDaddy |
-| LaunchPad | Unknown |
-| MarkMonitor | None |
+| LaunchPad | unknown |
+| MarkMonitor | none |
 | Mesh Digital | GoDaddy |
 | Moniker | GoDaddy |
 | Name.com | GoDaddy |
@@ -57,15 +57,15 @@ Many domain name registrars forward their expired domain names to exclusive part
 | NameSilo | NameSilo marketplace |
 | Network Solutions | NameJet/SnapNames |
 | OnlineNic | NameJet/SnapNames |
-| OVH SaS | Unknown |
+| OVH SaS | unknown |
 | PDR | GoDaddy |
 | PorkBun | GoDaddy |
-| RealTime Registrar | Unknown |
-| Register SPA | Unknown |
+| RealTime Registrar | unknown |
+| Register SPA | unknown |
 | Register.com | NameJet/SnapNames |
-| RegistryGate GmbH | Unknown |
+| RegistryGate GmbH | unknown |
 | Sav | Sav |
-| Squarespace (Google) | None |
+| Squarespace (ex Google Domains) | none |
 | SRSPlus | NameJet/SnapNames |
 | Tucows | GoDaddy |
 | WildWestDomains | GoDaddy |
